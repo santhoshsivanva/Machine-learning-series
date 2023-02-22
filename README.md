@@ -1,2 +1,2 @@
 # Machine-learning-series
-for learning purpose
+  For my learning purpose
